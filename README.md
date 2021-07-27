@@ -1,8 +1,9 @@
-# Assignment2 - Pacman
+# Pacman
 
-Omer Tagger : 207904616
+Omer Niv 
 
-Omer Niv : 315964734
+Omer Tagger
+
 
 ### URL
 https://web-development-environments-2021.github.io/Assignment2_207904616_315964734/
